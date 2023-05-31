@@ -1,0 +1,26 @@
+.list-people {
+  margin-top: 20px;
+}
+.list-people table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+.list-people table th,
+.list-people table td {
+  padding: 10px;
+  text-align: center;
+}
+.list-people table th {
+  background-color: transparent;
+  font-weight: bold;
+}
+.list-people table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+.list-people table tbody td select {
+  padding: 5px;
+  border: none;
+  border-radius: 3px;
+  outline: none;
+} /*# sourceMappingURL=ListPeople.css.map */
